@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 3D deep learning model
 - 🌱 I’m currently learning Geometric deep learning
 - 👯 I’m looking to collaborate on computer vision projects
-- 😄 You can visit: my website (aimloed.com)
+- 😄 You can visit: my website (ashvinee.xyz)
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sparten-Ashvinee&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sparten-Ashvinee's Github Stats">

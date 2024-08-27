@@ -11,18 +11,8 @@
         <a href="ashvineek9@gmail.com"><img src="https://img.shields.io/badge/Mail-FF0000?style=flat&logo=Mail&logoColor=white" /></a>
         <a href="https://twitter.com/AshvineeK4"><img src="https://img.shields.io/badge/twitter-ADD8E6?style=flat&logo=Mail&logoColor=white"  alt="twitter" /></a>
 </div>
-
-<p align="center">
-  <a href="https://github.com/Sparten-Ashvinee?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sparten-Ashvinee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Sparten-Ashvinee?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sparten-Ashvinee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a align="center"> 
-	  <img alt="Counter" title="Profile views" src="https://komarev.com/ghpvc/?username=Sparten-Ashvinee&label=Profile%20views&color=yellow&flat?" height=25px, width=160px/> 
-</p>
     
 <br>
-
 </p>
 
 	
@@ -38,11 +28,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on computer vision projects
 - 😄 You can visit: my website (ashvinee.xyz)
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sparten-Ashvinee&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sparten-Ashvinee's Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sparten-Ashvinee&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Sparten-Ashvinee" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sparten-Ashvinee&theme=transparent" alt="Sparten-Ashvinee" />
-
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

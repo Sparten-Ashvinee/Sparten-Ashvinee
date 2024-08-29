@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 3D deep learning model
 - 🌱 I’m currently learning Geometric deep learning
 - 👯 I’m looking to collaborate on computer vision projects
-- 😄 You can visit: my website (ashvinee.xyz)
+- 😄 You can visit: my website [ashvinee.xyz](https://www.ashvinee.xyz/)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

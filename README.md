@@ -1,76 +1,212 @@
-### Hi there 👋
-<h1 align="center">Hi , I'm Ashvinee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=an+ML+Engineer;with+Computer+Science+background;Highly+motivated+and+enthusiastic;computer+vision+professional;Proven+track+record;of+research+and+development;with+several+publications+and+awards+in+deep+learning;Passionate+about+learning+and+innovation"></a>
-</p>
+<div align="center">
 
-<div align=center>
-        <a href="https://www.linkedin.com/in/ashvinee04/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://stackoverflow.com/users/22609728/ashvinee-ashvinee"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href="https://www.kaggle.com/sparten"><img src="https://img.shields.io/badge/Kaggle-ADD8E6?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-        <a href="ashvineek9@gmail.com"><img src="https://img.shields.io/badge/Mail-FF0000?style=flat&logo=Mail&logoColor=white" /></a>
-        <a href="https://twitter.com/AshvineeK4"><img src="https://img.shields.io/badge/twitter-ADD8E6?style=flat&logo=Mail&logoColor=white"  alt="twitter" /></a>
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashvinee&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Deep%20Learning%20Engineer%20%7C%20AI%20%26%20LLM%20Specialist&descAlignY=60&descSize=18" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=700&lines=Senior+Deep+Learning+Engineer+%7C+7%2B+Years;LLM+%7C+Computer+Vision+%7C+Edge+AI+Specialist;MLOps+%7C+Cloud+AI+%7C+Model+Optimization+Expert;IEEE+Published+Researcher+%7C+NeurIPS+Presenter" alt="Typing SVG" />
+</a>
+
+<!-- Social Badges -->
+<br/>
+<a href="https://linkedin.com/in/ashvinee">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Ashvinee">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.ashvinee.boston">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:ashvinee.ai@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.kaggle.com/sparten">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Ashvinee&style=for-the-badge&color=6AD3F5&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
-    
-<br>
-</p>
-
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 3D deep learning model
-- 🌱 I’m currently learning Geometric deep learning
-- 👯 I’m looking to collaborate on computer vision projects
-- 😄 You can visit: my website [ashvinee.xyz](https://www.ashvinee.xyz/)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h3>👨‍💻 Programming Languages and Tools</h3>
-
-  <p>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Ajupyter"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FFFFFF.svg?logo=jupyter&logoColor=orange"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Atensorflow"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FFFFFF.svg?logo=tensorflow&logoColor=orange"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Apytorch"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-FFFFFF.svg?logo=pytorch&logoColor=orange"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Aaws"><img alt="AWS-S3" src="https://img.shields.io/badge/aws%20S3-FFFFFF.svg?logo=aws%20S3&logoColor=orange"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Aaws"><img alt="AWS-EC2" src="https://img.shields.io/badge/aws%20EC2-FFFFFF.svg?logo=aws%20EC2&logoColor=orange"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Anumpy"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-FFFFFF.svg?logo=numpy&logoColor=blue"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Apandas"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-FFFFFF.svg?logo=pandas&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Amatplotlib"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-FFFFFF.svg?logo=matplotlib&logoColor=blue"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Aonnix"><img alt="Onnix" src="https://img.shields.io/badge/Onnix-FFFFFF.svg?logo=onnix&logoColor=gray"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Aopencv"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-FFFFFF.svg?logo=opencv&logoColor=green"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Ascilearn"><img alt="Scikit-Learn" src="https://img.shields.io/badge/SciLearn-FFFFFF.svg?logo=scilearn&logoColor=orange"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Adocker"><img alt="Docker" src="https://img.shields.io/badge/Docker-FFFFFF.svg?logo=docker&logoColor=blue"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Aflask"><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?logo=flask&logoColor=blue"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Advc"><img alt="DVC" src="https://img.shields.io/badge/DVC-FFFFFF.svg?logo=dvc&logoColor=blue"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Ahydra"><img alt="Hydra" src="https://img.shields.io/badge/Hydra-FFFFFF.svg?logo=hydra&logoColor=orange"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3Agithub"><img alt="GitHub-Action" src="https://img.shields.io/badge/GitHub-Action-FFFFFF.svg?logo=github&logoColor=blue"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3AWeight&Bias"><img alt="Weight&Bias" src="https://img.shields.io/badge/Weight&Bias-FFFFFF.svg?logo=Weight&Bias&logoColor=orange"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3AAWS-Sagemaker"><img alt="AWS-Sagemaker" src="https://img.shields.io/badge/AWS-Sagemaker-FFFFFF.svg?logo=AWS-Sagemaker&logoColor=orange"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3AObject-Detection"><img alt="Object-Detection" src="https://img.shields.io/badge/Object-Detection-FFFFFF.svg?logo=Object-Detection&logoColor=res"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3ASegmentation"><img alt="Segmentation" src="https://img.shields.io/badge/Segmentation-FFFFFF.svg?logo=Segmentation&logoColor=red"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3AReact-Native"><img alt="React-Native" src="https://img.shields.io/badge/React-Native-FFFFFF.svg?logo=React-Native&logoColor=blue"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3AMedical-Image-Processing"><img alt="Medical-Image-Processing" src="https://img.shields.io/badge/Medical-Image-Processing-FFFFFF.svg?logo=Medical-Image-Processing&logoColor=red"></a>
-      <a href="https://github.com/search?q=user%3ASparten-Ashvinee+language%3AModel-optimization"><img alt="Model-optimization" src="https://img.shields.io/badge/Model-optimization-FFFFFF.svg?logo=tensorflow&logoColor=red"></a>
-  </p>
 
 ---
 
-### 📕 My Latest Blog posts:
+## About Me
+
+```python
+class AshvineeAI:
+    def __init__(self):
+        self.name        = "Ashvinee"
+        self.role        = "Senior Deep Learning Engineer"
+        self.experience  = "7+ years"
+        self.location    = "Bengaluru, India"
+        self.focus       = ["LLMs", "Computer Vision", "Edge AI", "MLOps"]
+        self.current     = "MLOps Professional @ Concentrix"
+
+    def summary(self):
+        return """
+        Senior Engineer specializing in scalable AI pipelines, model optimization,
+        and cloud deployment. IEEE-published researcher with hands-on experience
+        across the full AI lifecycle  from research to production-grade deployment.
+        Active IISc LLM program participant and NeurIPS conference presenter.
+        """
+```
+
+---
+
+## Tech Stack
+
+### Core AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### LLMs & Generative AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+> **Models & Architectures:** Transformers  ViT  YOLO  NeRF  VAE  GAN  SAM  CLIP  UNET  DenseNet  LSTM  Siamese  DeepLabV3  Phi  FaceNet  Qwen2-VL  Llama-3.1
+
+### Edge AI & Optimization
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+> **Platforms:** Qualcomm AI Hub  Jetson Nano  Quantization  Model & Memory Optimization
+
+### MLOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+> **AWS Services:** SageMaker Pipeline  EC2  S3
+
+---
+
+## Work Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### MLOps Professional
+**Concentrix** &nbsp;&nbsp; Oct 2024  Present
+
+- Built Encoder-Decoder model for predictive health monitoring of industrial assets using time-series unsupervised data
+- Integrated Kubernetes MLOps pipelines, improving system scalability by 10%
+- Developed Conditional VAE + LSTM Encoder-Decoder for high-frequency vibration time-series generation
+
+</td>
+<td width="50%">
+
+### ML Engineer  Computer Vision
+**Sony India** *(via Ignitarium)* &nbsp;&nbsp; Nov 2021  Oct 2024
+
+- End-to-end object detection on 70K+ visual data using AWS SageMaker MLOps
+- Supervised ViT deployment team for Sony cameras
+- Optimized NeRF model, improving training speed by 2025%
+- Achieved 60% reduction in segmentation annotation time using SAM
+- Debugged YOLOX for 10% performance & memory gain via PyTorch Hook & Profiler
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Software Engineer  Computer Vision
+**Iolite Technologies** &nbsp;&nbsp; Jun 2019  Nov 2021
+
+- 96% accuracy on RSNA pneumonia detection via Transfer Learning on DenseNet121
+- 89% accuracy using Meta-Learning on Siamese Network with DICOM medical data processing
+- Object segmentation using DeepLabV3
+
+</td>
+<td width="50%">
+
+### Associate Software Engineer
+**Microhard Infotech** &nbsp;&nbsp; Jun 2018  May 2019
+
+- LSTM + Attention model generating Western classical piano music  92% high-quality MIDI success rate
+- Implemented distributed training with data & model parallelism for large-scale models
+- IEEE-published research validated through 30-listener feedback study
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Multimodal LLM Fine-tuning** | Fine-tuned Qwen2-VL-2B for AI-generated image detection | PyTorch, HuggingFace, QLORA |
+| **Autonomous Driving OD Pipeline** | Object detection pipeline for ADAS on Qualcomm edge devices | TensorRT, Qualcomm AI Hub, YOLO |
+| **LLM on SageMaker** | Inferenced Nvidia Llama-3.1 Nemotron-Nano-8B-v1 with RAG Embedding NIM on SageMaker endpoint | AWS SageMaker, LangChain, RAG |
+
+---
+
+## Publications & Recognition
+
+- **IEEE (Seoul, South Korea, 2022)**  *Application of LSTM Model for Western Music Composition*
+- **Global Journal of Engineering Science and Research (2018)**  *Machine Translation from Speech to Sign Language*
+- **NeurIPS International Conference (2020)**  Presenter
+- **PRISM 2020**  2nd Place: *Using LSTM Architecture on Indian Classical Music Composition*
+
+---
+
+## Certifications
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| Large Language Models: A Hands-on Approach | **IISc** | 2026 |
+| Extensive & Reimagined AI Computer Vision (ERA) V1 | **School of AI** | 20232024 |
+| DeepLearning.AI TensorFlow Developer | **Coursera** | 2021 |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashvinee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvinee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashvinee&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvinee&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+</div>
+
+---
+
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Structuring machine learning projects](https://ashvineek9.wixsite.com/website/post/structuring-machine-learning-projects)
-- [GDL-1.0 Foundation of Geometric deep learning](https://ashvineek9.wixsite.com/website/post/foundationofgeometricdeeplearning)
-- [Graphic Neural Network using PyTorch](https://ashvineek9.wixsite.com/website/post/gnn-using-pytorch)
-- [CV-0.0 Interpretation of the brain for computer vision](https://ashvineek9.wixsite.com/website/post/interpretation-of-the-brain-for-computer-vision)
-- [LSTM architecture](https://ashvineek9.wixsite.com/website/post/lstm-architecture)
+- [Structuring Machine Learning Projects](https://ashvineek9.wixsite.com/website/post/structuring-machine-learning-projects)
+- [GDL-1.0 Foundation of Geometric Deep Learning](https://ashvineek9.wixsite.com/website/post/foundationofgeometricdeeplearning)
+- [Graph Neural Network using PyTorch](https://ashvineek9.wixsite.com/website/post/gnn-using-pytorch)
+- [Interpretation of the Brain for Computer Vision](https://ashvineek9.wixsite.com/website/post/interpretation-of-the-brain-for-computer-vision)
+- [LSTM Architecture](https://ashvineek9.wixsite.com/website/post/lstm-architecture)
 <!-- BLOG-POST-LIST:END -->
+
 ---
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>

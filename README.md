@@ -118,7 +118,7 @@ class AshvineeAI:
 
 - End-to-end object detection on 70K+ visual data using AWS SageMaker MLOps
 - Supervised ViT deployment team for Sony cameras
-- Optimized NeRF model, improving training speed by 2025%
+- Optimized NeRF model, improving training speed by 2025
 - Achieved 60% reduction in segmentation annotation time using SAM
 - Debugged YOLOX for 10% performance & memory gain via PyTorch Hook & Profiler
 
@@ -150,16 +150,6 @@ class AshvineeAI:
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Multimodal LLM Fine-tuning** | Fine-tuned Qwen2-VL-2B for AI-generated image detection | PyTorch, HuggingFace, QLORA |
-| **Autonomous Driving OD Pipeline** | Object detection pipeline for ADAS on Qualcomm edge devices | TensorRT, Qualcomm AI Hub, YOLO |
-| **LLM on SageMaker** | Inferenced Nvidia Llama-3.1 Nemotron-Nano-8B-v1 with RAG Embedding NIM on SageMaker endpoint | AWS SageMaker, LangChain, RAG |
-
----
-
 ## Publications & Recognition
 
 - **IEEE (Seoul, South Korea, 2022)**  *Application of LSTM Model for Western Music Composition*
@@ -174,7 +164,7 @@ class AshvineeAI:
 | Certificate | Issuer | Year |
 |---|---|---|
 | Large Language Models: A Hands-on Approach | **IISc** | 2026 |
-| Extensive & Reimagined AI Computer Vision (ERA) V1 | **School of AI** | 20232024 |
+| Extensive & Reimagined AI Computer Vision (ERA) V1 | **School of AI** | 2024 |
 | DeepLearning.AI TensorFlow Developer | **Coursera** | 2021 |
 
 ---

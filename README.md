@@ -20,10 +20,6 @@
 <a href="mailto:ashvinee.ai@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Ashvinee&style=for-the-badge&color=6AD3F5&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 ---
